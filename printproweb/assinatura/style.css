@@ -113,3 +113,17 @@ button:hover {
 .contact-btn:hover {
     background-color: #36a420;
 }
+
+.register-link {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.register-link a {
+    color: #1877f2;
+    text-decoration: none;
+}
+
+.register-link a:hover {
+    text-decoration: underline;
+}
