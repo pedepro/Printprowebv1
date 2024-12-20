@@ -152,3 +152,17 @@ input#cpf {
 .form-row .form-group.half-width {
     width: 48%;
 }
+
+.register-link {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.register-link a {
+    color: #1877f2;
+    text-decoration: none;
+}
+
+.register-link a:hover {
+    text-decoration: underline;
+}
